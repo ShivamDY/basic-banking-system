@@ -21,11 +21,7 @@
 </div>
 
 <?php 
-  $servername = "localhost";
-  $username ="root";
-  $password ="SHsh!@12";
-  $database ="dbshivam";
-   
+
 ?>
 
 
